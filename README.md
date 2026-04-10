@@ -2,46 +2,97 @@
 sogmax@github:~$ ./welcome.sh
 ```
 
+```
++ Initializing profile...
++ Loading modules...
++ Ready
+
+ ___________________________________________
+< Access granted: github.com/sogmax 🐧 >
+ -------------------------------------------
+        \   
+         \  
+             /~~~~~~\
+           /`    -s- ~~~~\
+          /`::::      ~~~~
+         /`:::::     :
+        /` :::::...::::
+       /`   `:::::::::::
+      /`      `:::::::::
+     /`        :::::::::
+     :        ::::::::::
+     :       :::::::::::
+     :       :::::::::::
+     :   .    ::::::::::
+     :   :.   ::::::::'
+     :   ::  .:::::::'
+     :   ::..:::::::'
+     :    :::::::::'
+      :    :::::::::
+       :..::......::
+
+[+] penguin.sys loaded
+[+] initializing modules...
+[+] Last update: Fri Apr 10 01:04:09 UTC 2026
+[+] Current focus: eJPT
+[✔] welcome to my profile
+```
+
+<table border="0">
+<tr>
+<td width="35%" valign="middle" align="center">
+<img src="https://github.com/sogmax/sogmax/blob/main/cropped.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="300" />
+    https://raw.githubusercontent.com/sogmax/Fufinop/refs/heads/main/cropped.jpg
+<br>
+<p align="center">
+<img alt="#000000" src="https://raw.githubusercontent.com/sogmax/sogmax/main/img/000000.png" width="25" height="20" /><img alt="#b9a96d" src="https://raw.githubusercontent.com/sogmax/sogmax/main/img/b9a96d.png" width="25" height="20" /><img alt="#74abd2" src="https://raw.githubusercontent.com/sogmax/sogmax/main/img/74abd2.png" width="25" height="20" /><img alt="#443c30" src="https://raw.githubusercontent.com/sogmax/sogmax/main/img/443c30.png" width="25" height="20" /><img alt="#436885" src="https://raw.githubusercontent.com/sogmax/sogmax/main/img/436885.png" width="25" height="20" />
+</p>
+</td>
+<td width="65%" valign="middle">
+
+```
+sogmax@github:~$ neofetch
+-------------------------
+👨‍💻 User: Ernesto (Sogma)
+🔐 Role: Cybersecurity student (eJPT path)
+
+🐧 OS: Linux | 🐚 Shell: bash
+💻 Stack: Python | Bash (automation & tooling)
+
+🦀 Rust: Learning… trading bugs for safety (most of the time)
+🌱 Learning: Pentesting | Red Teaming
+🏴‍☠️ CTF: Breaking stuff to learn
+
+🎵 Music: whatever keeps the terminal alive
+🧠 Philosophy: Boundaries are just suggestions
+
+💻 Commits: 144
+⭐ Stars: 0
+```
+
+</td>
+</tr>
+</table>
+
 ```console
-[1;32m
-   ____                 _             _       
-  |  _ \ ___  __ _  ___| | _____ _ __| |_ ___ 
-  | |_) / _ \/ _` |/ __| |/ / _ \ '__| __/ __|
-  |  __/  __/ (_| | (__|   <  __/ |  | |_\__ \
-  |_|   \___|\__,_|\___|_|\_\___|_|   \__|___/
-[0m
-
-[1;31m[+] Initializing profile...[0m
-[1;33m[+] Loading skills...[0m
-[1;32m[✔] Ready[0m
-```
-
-
-
-
-
-
-```console
-trykatchup@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs" >> /tmp/crontab$$
+sogmas@github:~$ crontab -l | { cat; echo "* * * * * /usr/local/bin/exploit.sh"; } | crontab -
 ```
 
 ```
-[sudo] Password for trykatchup:
+[sudo] password for sogma:
 
-CATching bugs in code...
-                              
-       \`*-.    [me]              
-        )  _`-.                 
-       .  : `. .                
-       : _   '  \               
-       ; *` _.   `*-._          
-       `-.-'          `-.       
-         ;       `       `.     
-         :.       .        \    
-         . \  .   :   .-'   .   
-         '  `+.;  ;  '      :   
-         :  '  |    ;       ;-. 
-         ; '   : :`-:     _.`* ;
-[bug] .*' /  .*' ; .*`- +'  `*' 
-      `*-*   `*-*  `*-*'
+[+] Running scheduled task...
+[+] Scanning for vulnerabilities...
+[!] Found something interesting...
+
+        .--.
+       |o_o |   < target
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+
+[+] Exploiting...
+[✓] Success (probably)
 ```

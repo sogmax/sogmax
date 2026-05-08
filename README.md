@@ -33,7 +33,7 @@ sogmax@github:~$ ./welcome.sh
 
 [+] penguin.sys loaded
 [+] initializing modules...
-[+] Last update: Thu May 07 13:56:23 UTC 2026
+[+] Last update: Fri May 08 02:37:49 UTC 2026
 [+] Current focus: eJPT
 [✔] welcome to my profile
 ```
@@ -44,7 +44,7 @@ sogmax@github:~$ ./welcome.sh
 <img src="https://github.com/sogmax/sogmax/blob/main/cropped.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="100%" />
 <br>
 <p align="center">
-<img alt="#000000" src="https://raw.githubusercontent.com/sogmax/sogmax/main/img/000000.png" width="25" height="20" /><img alt="#f1efed" src="https://raw.githubusercontent.com/sogmax/sogmax/main/img/f1efed.png" width="25" height="20" /><img alt="#7c7a78" src="https://raw.githubusercontent.com/sogmax/sogmax/main/img/7c7a78.png" width="25" height="20" /><img alt="#b3b1ae" src="https://raw.githubusercontent.com/sogmax/sogmax/main/img/b3b1ae.png" width="25" height="20" /><img alt="#3c3c3a" src="https://raw.githubusercontent.com/sogmax/sogmax/main/img/3c3c3a.png" width="25" height="20" />
+<img alt="#110d11" src="https://raw.githubusercontent.com/sogmax/sogmax/main/img/110d11.png" width="25" height="20" /><img alt="#70151c" src="https://raw.githubusercontent.com/sogmax/sogmax/main/img/70151c.png" width="25" height="20" /><img alt="#a42321" src="https://raw.githubusercontent.com/sogmax/sogmax/main/img/a42321.png" width="25" height="20" /><img alt="#342535" src="https://raw.githubusercontent.com/sogmax/sogmax/main/img/342535.png" width="25" height="20" /><img alt="#300b16" src="https://raw.githubusercontent.com/sogmax/sogmax/main/img/300b16.png" width="25" height="20" />
 </p>
 </td>
 <td width="65%" valign="middle">
